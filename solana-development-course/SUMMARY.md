@@ -1,8 +1,6 @@
 - Introduction
-  - Introduction
     - [Get started](./zh-chs/getting-started.md)
 - dApp development
-  - Introduction to cryptography and Solana clients
     - [Cryptography fundamentals](./zh-chs/intro-to-cryptography.md)
     - [Read data from the network](./zh-chs/intro-to-reading-data.md)
     - [Create transactions on the Solana Network](./zh-chs/intro-to-writing-data.md)
@@ -15,7 +13,6 @@
     - [Create tokens with the Token Program](./zh-chs/token-program.md)
     - [Create Solana NFTs With Metaplex](./zh-chs/nfts-with-metaplex.md)
 - On-chain program development
-  - Basic Solana Program Development
     - [Hello World](./zh-chs/hello-world-program.md)
     - [Handle Instruction Data](./zh-chs/deserialize-instruction-data.md)
     - [State Management](./zh-chs/program-state-management.md)
@@ -53,8 +50,7 @@
     - [Verifiable randomness functions](./../assets/vrf-diagram.png)
     - [Compressed NFTs](./zh-chs/compressed-nfts.md)
     - [Generalized State Compression](./zh-chs/generalized-state-compression.md)
-- Solana Mobile Development 
-  - Solana Mobile Development
+- Solana Mobile Development
     - [Introduction to Solana Mobile]()
     - [Exploring Mobile Wallet Adapter]()
     - [Building Solana Mobile dApps with Expo]()
